@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on projects both here and on gitlab
 - 🌱 I’ve recently implemented biometric login to past react-native projects
 - :herb: I’m currently working with typescript and react
-- :mushroom: Fun fact: I have an intrest in mushrooms and forage wild ones as well as cultivate them on logs
+- :mushroom: Fun fact: I have an interest in mushrooms and forage wild ones as well as cultivate them on logs
 <!--
 **AugustGit/AugustGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### Hi there 👋
