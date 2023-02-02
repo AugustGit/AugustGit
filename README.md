@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![austin-metka-header](https://user-images.githubusercontent.com/15388286/216377249-f3817c79-3cda-4f96-a906-068d7b651641.png)
 <!--
 **AugustGit/AugustGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
